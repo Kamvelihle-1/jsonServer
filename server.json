@@ -1,6 +1,13 @@
-{
+[{
     "name":"Kamva",
     "surname": "Sikalana",
-    "age": 21,
+    "age": 72,
     "gender": "Male"
+},
+{
+    "name":"Bobo",
+    "surname": "Bhibho",
+    "age": 21,
+    "gender": "Female"
 }
+]
